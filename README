@@ -1,3 +1,5 @@
+  WARNING
+
 This software might cause epilepsy for some users, due to the constantly flashing colors. Be careful!
 
   ABOUT
@@ -6,4 +8,4 @@ This is a simple Python script that shows a wiggly line in random colors. This l
 
   COMPATABILITY
 
-This program will only work on Windows, but feel free to add Linux compatability through a PR! This code is quite messy tho, so just ignore most of it.
+This program will only work on Windows, but feel free to add Linux compatability through a PR! This code is quite messy though, so just ignore most of it.
