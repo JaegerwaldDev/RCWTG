@@ -6,4 +6,4 @@ This is a simple Python script that shows a wiggly line in random colors. This l
 
   COMPATABILITY
 
-This program will only work on windows
+This program will only work on windows, but feel free to add linux compatability through a PR!
