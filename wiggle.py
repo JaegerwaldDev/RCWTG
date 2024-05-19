@@ -15,7 +15,7 @@ def get_rand_color():
 
 system("cls")
 system("color 04")
-print("EPILEPSY WARNING - IF YOU HAVE PHOTOSENSITIVE EPILEPSY TURN OFF THIS PROGRAM IMMEDIETLY!!!\n")
+print("EPILEPSY WARNING - IF YOU HAVE PHOTOSENSITIVE EPILEPSY TURN OFF THIS PROGRAM IMMEDIATELY!!!\n")
 system("pause")
 
 anim=""".
